@@ -1,0 +1,21 @@
+ Reduce stockouts of fast-moving convenience and kitchen items by forecasting
+demand ahead of high-demand periods (weekends, holidays, promotions).
+• Reduce waste of slow-moving and perishable kitchen ingredients by aligning
+order quantities with predicted, rather than assumed, demand.
+• Replace manual, experience-based ordering with a data-driven decisionsupport process for store and kitchen managers.
+• Provide early, automated alerts when predicted demand is likely to exceed
+current stock levels, enabling proactive rather than reactive ordering.
+• Improve overall profitability, customer satisfaction and product availability at the
+filling station.
+
+2.3 Business Success Criteria
+• At least a 30% reduction in stockout incidents for the top 20 fast-moving store
+and kitchen items within 6 months of go-live.
+• At least a 25% reduction in measurable kitchen ingredient wastage (by value or
+weight) within 6 months of go-live.
+• Demand forecast error (e.g. Mean Absolute Percentage Error) below 15–20%
+for key product categories.
+• At least 80% of restocking decisions made by managers reference the system's
+alerts or forecasts within 3 months of adoption.
+• Measurable reduction (e.g. 50%) in manager time spent on manual stock
+counting and estimation.
