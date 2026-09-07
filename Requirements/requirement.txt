@@ -5,3 +5,6 @@ simple dashboard/report for managers.
 • Data: a minimum of 12 months of historical sales data, current stock levels, a 
 promotions calendar, and weather data (via a weather API) for the store's 
 location. 
+•	Technical: Python-based forecasting pipeline (e.g. pandas, scikit-learn, Prophet/statsmodels), a lightweight database for storing sales and stock data, 
+and a simple front end (e.g. dashboard or Streamlit app) usable by non-technical staff.
+•	Usability: alerts and forecasts must be understandable to store/kitchen managers without a data-science background.
