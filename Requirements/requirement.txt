@@ -1,0 +1,7 @@
+• Functional: ingest historical sales, price, promotion, weather and stock-level 
+data; generate short-term demand forecasts per product/ingredient; compare 
+forecasts against current stock and trigger restock alerts; present results via a 
+simple dashboard/report for managers. 
+• Data: a minimum of 12 months of historical sales data, current stock levels, a 
+promotions calendar, and weather data (via a weather API) for the store's 
+location. 
