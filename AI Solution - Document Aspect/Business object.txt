@@ -1,4 +1,14 @@
- Reduce stockouts of fast-moving convenience and kitchen items by forecasting
+2 Business Objectives
+
+2.1 Business Background
+• The client environment is a fuel filling station operating a hybrid retail model: a forecourt, an attached convenience store, and an in-house food kitchen.
+• Ordering decisions for both the store and the kitchen are currently made manually, based on staff experience and periodic stock counts rather than historical sales patterns.
+• This is typical of small and medium filling-station operators in South Africa, who generally lack the budget or technical staff to implement enterprise-grade demand-forecasting systems, despite operating in an industry where demand is highly variable and perishable stock is common.
+
+
+2.2 Business Objectives
+
+• Reduce stockouts of fast-moving convenience and kitchen items by forecasting
 demand ahead of high-demand periods (weekends, holidays, promotions).
 • Reduce waste of slow-moving and perishable kitchen ingredients by aligning
 order quantities with predicted, rather than assumed, demand.
@@ -19,3 +29,28 @@ for key product categories.
 alerts or forecasts within 3 months of adoption.
 • Measurable reduction (e.g. 50%) in manager time spent on manual stock
 counting and estimation.
+
+2.5 Constraints
+
+•	Limited quality and completeness of existing historical sales data, since records have been kept manually.
+•	Limited IT budget and infrastructure typical of a small/medium filling-station operator, with no dedicated in-house IT or data-science staff.
+•	Fixed academic project timeline and scope, limiting the depth of model tuning and integration possible before the due date.
+•	Dependence on an external weather API and its availability, accuracy and pricing.
+
+2.6 Risks
+
+•	Forecast accuracy may be low if historical data is sparse, inconsistent or poorly labelled — mitigated by data cleaning and starting with simpler, explainable models.
+•	Managers may resist adopting a new system and continue ordering manually — mitigated by a simple interface, short training, and phased rollout alongside the existing process.
+•	A single model may not generalise well across different stores, regions or seasons with different demand patterns — mitigated by per-store/per-category retraining.
+•	Forecast quality will degrade over time if sales and stock data are not captured consistently — mitigated by lightweight data-entry validation and regular monitoring.
+•	Data privacy/security risk where the system connects to point-of-sale data — mitigated by restricting access and anonymising data used for testing
+
+2.7 Initial Assessment of Tools and Techniques
+
+•	Language: Python, using pandas and NumPy for data preparation and cleaning.
+•	Forecasting/Machine Learning: regression models (scikit-learn) and time-series methods (ARIMA/SARIMA via statsmodels, or Facebook Prophet) to capture seasonality such as day-of-week and promotional effects.
+•	Visualisation and reporting: Matplotlib/Seaborn for exploratory analysis, and a simple dashboard (e.g. Streamlit or Power BI) for manager-facing alerts and reports.
+•	Alerting logic: rule-based comparison of predicted demand against current stock levels, triggering a dashboard notification, email or SMS alert when a shortfall is predicted.
+•	Optional conversational layer: a lightweight chatbot/softbot allowing a manager to ask, for example, “what is the predicted demand for bottled water this weekend?” using simple intent matching or a small NLP library.
+
+
