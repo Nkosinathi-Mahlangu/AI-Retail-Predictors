@@ -97,7 +97,7 @@ python src/data_preprocessing/data_cleaner.py "data/raw/sales_data.csv"
 ---
 
 ## Documentation
-The full written submission, including requirements specification, system design, model development, and results, is available at [docs/final_report.docx](docs/final_report.docx).
+The full written submission, including requirements specification, system design, model development, and results, will be available at [docs/final_report.docx](docs/final_report.docx).
 
 ## Academic Note
 
