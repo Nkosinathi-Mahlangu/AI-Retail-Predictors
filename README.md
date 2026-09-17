@@ -1,46 +1,44 @@
-# AI-Retail-Predictors
-This repository contains the contents of AI-Powered Sales and Demand Prediction System for filling stations stores
+# AI Retail Predictors
 
-## Module Information
+A Python-based demand forecasting and stockout detection system for
+non-technical filling-station forecourt managers.
 
-- **Module:** AI for Business Analysis with Python (AIBUY3A)
-- **Institution:** Vaal University of Technology (VUT)
-- **Submission Date:** 02 November 2026
-- **Presentations:** 09–13 November 2026
+---
 
-## Team Members
+## Data Privacy
 
-##  Team Members & Responsibilities
+All data processed by this system is synthetic, sourced from the Kaggle
+"Retail Store Inventory and Demand Forecasting" dataset. No real customer,
+financial, or personally identifiable information is processed by this system.
+All findings and outputs are illustrative only and do not represent real-world
+outcomes.
 
-|  Name |  Student Number |  Component(s) Responsible |
-|:---|:---:|:---|
-| **Ntando Mahlaba** | `240605128` | Machine Learning |
-| **Simeli Ndodzi** | `240117484` | Time Series Analysis |
-| **Lebogang Sebela** | `224488341` | NLP / Speech Processing |
-| **Ndabezinhle Nxumalo** | `225083728` | Deep Learning |
-| **Simphiwe Nkabinde** | `224973762` | Chatbot / Softbot |
-| **Sandiso Shabalala** | `224245309` | Data Preprocessing |
-| **Nkosinathi Mahlangu** | `224215809` | Documentation |
-| **SC Buthelezi** | `224118692` | Testing & Evaluation |
+---
 
 ## Project Overview
 
-This project implements an AI-powered sales and demand prediction system for filling station stores. It uses the Kaggle dataset *"Retail Store Inventory and Demand Forecasting"* (atomicd) to forecast product demand, detect stockout risk, and provide an interactive chatbot interface for store managers.
+AI Retail Predictors helps filling-station managers make smarter daily
+stock-ordering decisions. The system ingests historical sales and inventory
+data, applies time-series decomposition, trains regression-based ML models
+and a lightweight deep-learning model, then serves demand forecasts and
+stockout alerts through a natural-language chatbot.
 
-> **Note on theme adaptation:** The source dataset's original product categories (Groceries, Electronics, Clothing, Furniture, Toys) were relabeled to align with a filling station store context. The full justification for this decision is documented in [`docs/business_objectives.txt`](docs/business_objectives.txt).
+All models run on CPU-only student laptops within a Python 3.x environment.
+
+---
 
 ## AI Components Addressed
 
-This project addresses all six required AI components, each isolated in its own module for traceability:
-
 | Component | Description | Location |
 |---|---|---|
-| *Machine Learning* | Regression-based demand forecasting models | [src/ml_models/](src/ml_models/) |
-| *Time Series Analysis* | Decomposition and trend/seasonality analysis of sales data | [src/time_series/](src/time_series/) |
-| *NLP / Speech Processing* | Natural-language query processing for the chatbot | [src/nlp/](src/nlp/) |
-| *Deep Learning* | Neural network-based forecasting model | [src/deep_learning/](src/deep_learning/) |
-| *Chatbot / Softbot* | Conversational interface for store managers | [src/chatbot/](src/chatbot/) |
-| *Data Preprocessing* | Cleaning, relabeling, and feature engineering underpinning all components | [src/data_preprocessing/](src/data_preprocessing/) |
+| Machine Learning | Regression-based demand forecasting models | [src/ml_models/](src/ml_models/) |
+| Time Series Analysis | Decomposition and trend/seasonality analysis | [src/time_series/](src/time_series/) |
+| NLP / Speech Processing | Natural-language query processing for the chatbot | [src/nlp/](src/nlp/) |
+| Deep Learning | Neural network-based forecasting model | [src/deep_learning/](src/deep_learning/) |
+| Chatbot / Softbot | Conversational interface for store managers | [src/chatbot/](src/chatbot/) |
+| Data Preprocessing | Cleaning, relabelling, and feature engineering | [src/data_preprocessing/](src/data_preprocessing/) |
+
+---
 
 ## Repository Structure
 
@@ -53,21 +51,21 @@ ai-retail-predictors/
 │   ├── business_objectives.txt
 │   └── final_report.docx
 ├── data/
-│   ├── raw/                        
-│   └── processed/                  
+│   ├── raw/                        # Original sales_data.csv lives here
+│   └── processed/                  # Cleaned outputs written here
 ├── src/
-│   ├── data_preprocessing/        
-│   ├── ml_models/                  
-│   ├── time_series/                
-│   ├── nlp/                        
-│   ├── deep_learning/              
-│   └── chatbot/                    
+│   ├── data_preprocessing/         # Req 1 & 2: cleaning + train/test split
+│   ├── ml_models/                  # Req 4: Random Forest / Gradient Boosting
+│   ├── time_series/                # Req 3: seasonal decomposition
+│   ├── nlp/                        # Req 9: NLP query processor
+│   ├── deep_learning/              # Req 5: LSTM / Dense neural network
+│   └── chatbot/                    # Req 8: chatbot interface
 ├── config/
-│   └── category_mapping.json       
-├── outputs/                        
-├── logs/                           
-├── notebooks/                      
-└── tests/                          
+│   └── category_mapping.json       # Filling-station category relabelling rules
+├── outputs/                        # Charts, reports, and model artefacts
+├── logs/                           # Runtime log files
+├── notebooks/                      # Jupyter notebooks for exploration
+└── tests/                          # Unit and integration tests
 ```
 
 ---
@@ -96,10 +94,11 @@ python src/data_preprocessing/data_cleaner.py "data/raw/sales_data.csv"
 
 ---
 
-## Documentation
-The full written submission, including requirements specification, system design, model development, and results, will be available at [docs/final_report.docx](docs/final_report.docx).
+## Limitations
 
-## Academic Note
-
-This repository is part of the AIBUY3A module requirements at VUT and is intended for academic evaluation purposes.
-
+- The dataset used is synthetic and has not been validated against operational
+  data from a real filling-station.
+- Model results and forecasts are not operationally validated and must not be
+  used for real business decisions.
+- The category-relabelling applied to the dataset is an approximation and may
+  not reflect actual filling-station product categories.

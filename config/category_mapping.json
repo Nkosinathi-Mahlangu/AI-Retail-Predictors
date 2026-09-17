@@ -1,0 +1,16 @@
+{
+  "_comment": "Maps raw Kaggle dataset Category values to filling-station forecourt equivalents.",
+  "mappings": {
+    "Groceries":   "Snacks",
+    "Clothing":    "Beverages",
+    "Toys":        "Airtime",
+    "Electronics": "Motor Accessories",
+    "Furniture":   "Motor Accessories"
+  },
+  "valid_target_categories": [
+    "Snacks",
+    "Beverages",
+    "Airtime",
+    "Motor Accessories"
+  ]
+}

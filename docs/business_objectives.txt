@@ -1,0 +1,27 @@
+AI Retail Predictors — Business Objectives
+==========================================
+
+Problem Statement
+-----------------
+Filling-station forecourt managers currently rely on manual
+judgement to make daily stock-ordering decisions. This leads
+to overstocking, understocking, and missed sales opportunities.
+
+Business Objectives
+-------------------
+1. Reduce stockout incidents by providing next-day demand
+   forecasts per product and store.
+2. Flag products at risk of running out before the next
+   delivery so managers can prioritise restock orders.
+3. Provide a natural-language chatbot interface so that
+   non-technical managers can query forecasts without reading
+   spreadsheets or understanding data science.
+
+Target User
+-----------
+Non-technical filling-station forecourt manager.
+
+Dataset
+-------
+Kaggle "Retail Store Inventory and Demand Forecasting"
+(synthetic data — see Data Privacy section in README.md).

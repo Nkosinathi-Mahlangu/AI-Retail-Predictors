@@ -1,0 +1,23 @@
+============================================================
+DATA CLEANING SUMMARY REPORT
+============================================================
+Original row count    : 76,000
+Cleaned row count     : 76,000
+Total rows removed    : 0
+
+--- Missing Value Removal ---
+  No missing values detected in required columns.
+
+--- Duplicate Removal ---
+  Rows removed (same Date + Store ID + Product ID): 0
+
+--- Category Relabelling ---
+  'Groceries' -> 'Snacks': 30,400 row(s)
+  'Clothing' -> 'Beverages': 12,160 row(s)
+  'Toys' -> 'Airtime': 10,640 row(s)
+  'Electronics' -> 'Motor Accessories': 9,120 row(s)
+  'Furniture' -> 'Motor Accessories': 13,680 row(s)
+
+--- Category Filtering ---
+  Rows removed (unrecognised Category after mapping): 0
+============================================================
