@@ -1,0 +1,19 @@
+Filling station convenience stores and the kitchens inside these stores currently order stock
+based on manual estimation and staff experience rather than data-driven forecasting.
+This causes two common problems: stockouts, where fast-moving items such as
+bottled water, snacks and key kitchen ingredients run out during high-demand periods
+such as weekends, holidays or promotions, resulting in lost sales and frustrated
+customers and overstocking, where slow-moving or perishable items particularly
+fresh kitchen ingredients are ordered in excess and go to waste before they can be
+sold. Demand fluctuates with variables such as day of the week, weather conditions
+and promotional activity, making it difficult for staff to predict it accurately across
+multiple product categories in the store and kitchen at the same time. As a result
+stores experience inconsistent stock availability, avoidable financial losses from waste,
+lost sales and an inability to make timely, informed purchasing decisions, which
+undermines profitability and customer service.
+This problem is directly relevant to the theme, “an AI Solution for Industries” because
+it applies 4IR technology to a small/medium retail industry currently excluded from
+most AI adoption. Solving it benefits the business through improved profitability and
+reduced waste and benefits the surrounding community where the
+station serves a small town through more reliable access to essential convenience
+goods and food and continued local employment.

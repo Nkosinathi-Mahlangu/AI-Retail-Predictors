@@ -1,0 +1,8 @@
+AI Retail Predictors — Requirements Specification
+==================================================
+
+This file will contain the formal requirements specification
+for the AI Retail Predictors system.
+
+See requirements.md at the project root for the full
+requirements document used during development.

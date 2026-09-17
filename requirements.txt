@@ -1,0 +1,32 @@
+# ==============================================================
+# AI Retail Predictors — Python Dependencies
+# ==============================================================
+# Install with:  pip install -r requirements.txt
+# Python version: 3.11.x
+# Platform:       Windows (CPU-only, no GPU required)
+#
+# Versions will be pinned once the full pipeline is complete
+# and a stable environment has been verified (Requirement 11).
+# ==============================================================
+
+# Core data processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Machine learning (Requirement 4)
+scikit-learn>=1.4.0
+
+# Deep learning — CPU-only (Requirement 5)
+tensorflow-cpu>=2.16.0
+
+# Time-series decomposition (Requirement 3)
+statsmodels>=0.14.0
+
+# NLP tokenisation (Requirement 9)
+nltk>=3.8.0
+
+# Visualisation (Requirement 10)
+matplotlib>=3.8.0
+
+# Utilities
+joblib>=1.3.0
