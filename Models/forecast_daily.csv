@@ -1,0 +1,701 @@
+Forecast Date,Store ID,Product ID,Product Name,Category,Subcategory,Region,Predicted Demand,Inventory Level,Price,Discount,Promotion
+2024-01-31,Branch 1 – Pretoria,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,76.8,383.0,71.56,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,79.7,383.0,71.56,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,78.7,383.0,71.56,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,80.8,383.0,71.56,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,77.3,383.0,71.56,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,75.3,383.0,71.56,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,71.7,383.0,71.56,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,113.3,136.0,70.55,0.0,0
+2024-02-01,Branch 1 – Pretoria,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,116.4,136.0,70.55,0.0,0
+2024-02-02,Branch 1 – Pretoria,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,117.2,136.0,70.55,0.0,0
+2024-02-03,Branch 1 – Pretoria,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,116.2,136.0,70.55,0.0,0
+2024-02-04,Branch 1 – Pretoria,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,116.2,136.0,70.55,0.0,0
+2024-02-05,Branch 1 – Pretoria,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,117.0,136.0,70.55,0.0,0
+2024-02-06,Branch 1 – Pretoria,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,116.6,136.0,70.55,0.0,0
+2024-01-31,Branch 1 – Pretoria,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,107.4,434.0,59.46,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,108.1,434.0,59.46,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,107.8,434.0,59.46,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,108.5,434.0,59.46,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,102.5,434.0,59.46,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,102.2,434.0,59.46,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,102.0,434.0,59.46,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,67.5,241.0,93.82,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,67.2,241.0,93.82,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,69.1,241.0,93.82,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,69.3,241.0,93.82,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,66.6,241.0,93.82,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,64.7,241.0,93.82,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,62.9,241.0,93.82,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,87.1,946.0,45.82,0.0,0
+2024-02-01,Branch 1 – Pretoria,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,94.3,946.0,45.82,0.0,0
+2024-02-02,Branch 1 – Pretoria,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,91.8,946.0,45.82,0.0,0
+2024-02-03,Branch 1 – Pretoria,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,83.3,946.0,45.82,0.0,0
+2024-02-04,Branch 1 – Pretoria,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,78.1,946.0,45.82,0.0,0
+2024-02-05,Branch 1 – Pretoria,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,74.5,946.0,45.82,0.0,0
+2024-02-06,Branch 1 – Pretoria,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,74.3,946.0,45.82,0.0,0
+2024-01-31,Branch 1 – Pretoria,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,67.8,436.0,37.13,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,72.4,436.0,37.13,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,69.6,436.0,37.13,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,70.7,436.0,37.13,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,68.6,436.0,37.13,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,66.8,436.0,37.13,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,63.0,436.0,37.13,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,79.2,476.0,24.57,0.0,0
+2024-02-01,Branch 1 – Pretoria,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,82.1,476.0,24.57,0.0,0
+2024-02-02,Branch 1 – Pretoria,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,82.5,476.0,24.57,0.0,0
+2024-02-03,Branch 1 – Pretoria,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,79.8,476.0,24.57,0.0,0
+2024-02-04,Branch 1 – Pretoria,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,77.0,476.0,24.57,0.0,0
+2024-02-05,Branch 1 – Pretoria,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,73.0,476.0,24.57,0.0,0
+2024-02-06,Branch 1 – Pretoria,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,68.5,476.0,24.57,0.0,0
+2024-01-31,Branch 1 – Pretoria,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,55.3,162.0,34.68,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,59.4,162.0,34.68,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,57.9,162.0,34.68,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,57.1,162.0,34.68,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,53.7,162.0,34.68,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,45.2,162.0,34.68,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,39.4,162.0,34.68,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,87.6,128.0,90.35,0.0,0
+2024-02-01,Branch 1 – Pretoria,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,91.0,128.0,90.35,0.0,0
+2024-02-02,Branch 1 – Pretoria,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,91.5,128.0,90.35,0.0,0
+2024-02-03,Branch 1 – Pretoria,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,88.6,128.0,90.35,0.0,0
+2024-02-04,Branch 1 – Pretoria,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,83.3,128.0,90.35,0.0,0
+2024-02-05,Branch 1 – Pretoria,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,76.7,128.0,90.35,0.0,0
+2024-02-06,Branch 1 – Pretoria,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,72.0,128.0,90.35,0.0,0
+2024-01-31,Branch 1 – Pretoria,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,64.1,518.0,125.82,5.0,0
+2024-02-01,Branch 1 – Pretoria,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,71.4,518.0,125.82,5.0,0
+2024-02-02,Branch 1 – Pretoria,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,71.6,518.0,125.82,5.0,0
+2024-02-03,Branch 1 – Pretoria,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,71.8,518.0,125.82,5.0,0
+2024-02-04,Branch 1 – Pretoria,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,72.4,518.0,125.82,5.0,0
+2024-02-05,Branch 1 – Pretoria,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,69.5,518.0,125.82,5.0,0
+2024-02-06,Branch 1 – Pretoria,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,69.2,518.0,125.82,5.0,0
+2024-01-31,Branch 1 – Pretoria,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,45.0,204.0,144.42,5.0,0
+2024-02-01,Branch 1 – Pretoria,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,48.5,204.0,144.42,5.0,0
+2024-02-02,Branch 1 – Pretoria,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,45.0,204.0,144.42,5.0,0
+2024-02-03,Branch 1 – Pretoria,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,42.8,204.0,144.42,5.0,0
+2024-02-04,Branch 1 – Pretoria,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,37.2,204.0,144.42,5.0,0
+2024-02-05,Branch 1 – Pretoria,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,28.9,204.0,144.42,5.0,0
+2024-02-06,Branch 1 – Pretoria,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,28.4,204.0,144.42,5.0,0
+2024-01-31,Branch 1 – Pretoria,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,87.5,396.0,83.66,0.0,0
+2024-02-01,Branch 1 – Pretoria,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,89.1,396.0,83.66,0.0,0
+2024-02-02,Branch 1 – Pretoria,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,88.2,396.0,83.66,0.0,0
+2024-02-03,Branch 1 – Pretoria,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,86.3,396.0,83.66,0.0,0
+2024-02-04,Branch 1 – Pretoria,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,81.9,396.0,83.66,0.0,0
+2024-02-05,Branch 1 – Pretoria,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,79.4,396.0,83.66,0.0,0
+2024-02-06,Branch 1 – Pretoria,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,72.8,396.0,83.66,0.0,0
+2024-01-31,Branch 1 – Pretoria,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,122.2,91.0,33.76,5.0,0
+2024-02-01,Branch 1 – Pretoria,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,126.8,91.0,33.76,5.0,0
+2024-02-02,Branch 1 – Pretoria,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,129.5,91.0,33.76,5.0,0
+2024-02-03,Branch 1 – Pretoria,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,131.4,91.0,33.76,5.0,0
+2024-02-04,Branch 1 – Pretoria,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,131.5,91.0,33.76,5.0,0
+2024-02-05,Branch 1 – Pretoria,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,131.8,91.0,33.76,5.0,0
+2024-02-06,Branch 1 – Pretoria,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,132.9,91.0,33.76,5.0,0
+2024-01-31,Branch 1 – Pretoria,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,91.4,660.0,69.99,0.0,0
+2024-02-01,Branch 1 – Pretoria,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,95.8,660.0,69.99,0.0,0
+2024-02-02,Branch 1 – Pretoria,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,93.2,660.0,69.99,0.0,0
+2024-02-03,Branch 1 – Pretoria,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,91.0,660.0,69.99,0.0,0
+2024-02-04,Branch 1 – Pretoria,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,85.7,660.0,69.99,0.0,0
+2024-02-05,Branch 1 – Pretoria,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,88.0,660.0,69.99,0.0,0
+2024-02-06,Branch 1 – Pretoria,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,87.1,660.0,69.99,0.0,0
+2024-01-31,Branch 1 – Pretoria,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,73.0,80.0,13.88,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,76.4,80.0,13.88,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,78.6,80.0,13.88,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,83.1,80.0,13.88,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,88.1,80.0,13.88,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,88.7,80.0,13.88,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,88.6,80.0,13.88,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,76.3,225.0,35.9,5.0,0
+2024-02-01,Branch 1 – Pretoria,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,81.0,225.0,35.9,5.0,0
+2024-02-02,Branch 1 – Pretoria,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,77.8,225.0,35.9,5.0,0
+2024-02-03,Branch 1 – Pretoria,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,74.7,225.0,35.9,5.0,0
+2024-02-04,Branch 1 – Pretoria,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,70.4,225.0,35.9,5.0,0
+2024-02-05,Branch 1 – Pretoria,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,68.2,225.0,35.9,5.0,0
+2024-02-06,Branch 1 – Pretoria,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,66.8,225.0,35.9,5.0,0
+2024-01-31,Branch 1 – Pretoria,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,68.7,186.0,21.59,5.0,0
+2024-02-01,Branch 1 – Pretoria,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,75.1,186.0,21.59,5.0,0
+2024-02-02,Branch 1 – Pretoria,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,74.1,186.0,21.59,5.0,0
+2024-02-03,Branch 1 – Pretoria,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,73.7,186.0,21.59,5.0,0
+2024-02-04,Branch 1 – Pretoria,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,67.1,186.0,21.59,5.0,0
+2024-02-05,Branch 1 – Pretoria,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,65.4,186.0,21.59,5.0,0
+2024-02-06,Branch 1 – Pretoria,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,62.3,186.0,21.59,5.0,0
+2024-01-31,Branch 1 – Pretoria,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,67.0,130.0,52.32,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,69.2,130.0,52.32,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,67.2,130.0,52.32,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,65.4,130.0,52.32,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,58.8,130.0,52.32,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,57.8,130.0,52.32,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,55.5,130.0,52.32,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,66.0,110.0,96.8,10.0,0
+2024-02-01,Branch 1 – Pretoria,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,63.4,110.0,96.8,10.0,0
+2024-02-02,Branch 1 – Pretoria,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,59.2,110.0,96.8,10.0,0
+2024-02-03,Branch 1 – Pretoria,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,61.3,110.0,96.8,10.0,0
+2024-02-04,Branch 1 – Pretoria,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,60.5,110.0,96.8,10.0,0
+2024-02-05,Branch 1 – Pretoria,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,58.5,110.0,96.8,10.0,0
+2024-02-06,Branch 1 – Pretoria,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,57.4,110.0,96.8,10.0,0
+2024-01-31,Branch 1 – Pretoria,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,70.5,333.0,112.5,5.0,0
+2024-02-01,Branch 1 – Pretoria,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,74.6,333.0,112.5,5.0,0
+2024-02-02,Branch 1 – Pretoria,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,75.1,333.0,112.5,5.0,0
+2024-02-03,Branch 1 – Pretoria,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,77.0,333.0,112.5,5.0,0
+2024-02-04,Branch 1 – Pretoria,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,76.8,333.0,112.5,5.0,0
+2024-02-05,Branch 1 – Pretoria,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,75.8,333.0,112.5,5.0,0
+2024-02-06,Branch 1 – Pretoria,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,75.2,333.0,112.5,5.0,0
+2024-01-31,Branch 2 – Cape Town,P0001,Bottled Water (500ml),Beverages,Water,Western Cape,79.7,569.0,78.18,5.0,0
+2024-02-01,Branch 2 – Cape Town,P0001,Bottled Water (500ml),Beverages,Water,Western Cape,84.7,569.0,78.18,5.0,0
+2024-02-02,Branch 2 – Cape Town,P0001,Bottled Water (500ml),Beverages,Water,Western Cape,87.3,569.0,78.18,5.0,0
+2024-02-03,Branch 2 – Cape Town,P0001,Bottled Water (500ml),Beverages,Water,Western Cape,83.2,569.0,78.18,5.0,0
+2024-02-04,Branch 2 – Cape Town,P0001,Bottled Water (500ml),Beverages,Water,Western Cape,81.1,569.0,78.18,5.0,0
+2024-02-05,Branch 2 – Cape Town,P0001,Bottled Water (500ml),Beverages,Water,Western Cape,77.8,569.0,78.18,5.0,0
+2024-02-06,Branch 2 – Cape Town,P0001,Bottled Water (500ml),Beverages,Water,Western Cape,78.5,569.0,78.18,5.0,0
+2024-01-31,Branch 2 – Cape Town,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Western Cape,70.3,515.0,28.08,10.0,0
+2024-02-01,Branch 2 – Cape Town,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Western Cape,73.7,515.0,28.08,10.0,0
+2024-02-02,Branch 2 – Cape Town,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Western Cape,76.8,515.0,28.08,10.0,0
+2024-02-03,Branch 2 – Cape Town,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Western Cape,72.0,515.0,28.08,10.0,0
+2024-02-04,Branch 2 – Cape Town,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Western Cape,66.2,515.0,28.08,10.0,0
+2024-02-05,Branch 2 – Cape Town,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Western Cape,64.1,515.0,28.08,10.0,0
+2024-02-06,Branch 2 – Cape Town,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Western Cape,63.7,515.0,28.08,10.0,0
+2024-01-31,Branch 2 – Cape Town,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Western Cape,74.4,388.0,72.2,5.0,0
+2024-02-01,Branch 2 – Cape Town,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Western Cape,80.3,388.0,72.2,5.0,0
+2024-02-02,Branch 2 – Cape Town,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Western Cape,78.7,388.0,72.2,5.0,0
+2024-02-03,Branch 2 – Cape Town,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Western Cape,79.2,388.0,72.2,5.0,0
+2024-02-04,Branch 2 – Cape Town,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Western Cape,74.7,388.0,72.2,5.0,0
+2024-02-05,Branch 2 – Cape Town,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Western Cape,69.9,388.0,72.2,5.0,0
+2024-02-06,Branch 2 – Cape Town,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Western Cape,69.1,388.0,72.2,5.0,0
+2024-01-31,Branch 2 – Cape Town,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Western Cape,68.8,129.0,36.61,10.0,0
+2024-02-01,Branch 2 – Cape Town,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Western Cape,73.9,129.0,36.61,10.0,0
+2024-02-02,Branch 2 – Cape Town,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Western Cape,71.6,129.0,36.61,10.0,0
+2024-02-03,Branch 2 – Cape Town,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Western Cape,68.7,129.0,36.61,10.0,0
+2024-02-04,Branch 2 – Cape Town,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Western Cape,63.4,129.0,36.61,10.0,0
+2024-02-05,Branch 2 – Cape Town,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Western Cape,61.6,129.0,36.61,10.0,0
+2024-02-06,Branch 2 – Cape Town,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Western Cape,60.3,129.0,36.61,10.0,0
+2024-01-31,Branch 2 – Cape Town,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Western Cape,146.0,552.0,105.91,0.0,0
+2024-02-01,Branch 2 – Cape Town,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Western Cape,152.0,552.0,105.91,0.0,0
+2024-02-02,Branch 2 – Cape Town,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Western Cape,155.6,552.0,105.91,0.0,0
+2024-02-03,Branch 2 – Cape Town,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Western Cape,155.2,552.0,105.91,0.0,0
+2024-02-04,Branch 2 – Cape Town,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Western Cape,156.7,552.0,105.91,0.0,0
+2024-02-05,Branch 2 – Cape Town,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Western Cape,161.2,552.0,105.91,0.0,0
+2024-02-06,Branch 2 – Cape Town,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Western Cape,164.6,552.0,105.91,0.0,0
+2024-01-31,Branch 2 – Cape Town,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Western Cape,108.5,98.0,63.58,10.0,0
+2024-02-01,Branch 2 – Cape Town,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Western Cape,110.1,98.0,63.58,10.0,0
+2024-02-02,Branch 2 – Cape Town,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Western Cape,112.3,98.0,63.58,10.0,0
+2024-02-03,Branch 2 – Cape Town,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Western Cape,112.2,98.0,63.58,10.0,0
+2024-02-04,Branch 2 – Cape Town,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Western Cape,114.6,98.0,63.58,10.0,0
+2024-02-05,Branch 2 – Cape Town,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Western Cape,115.2,98.0,63.58,10.0,0
+2024-02-06,Branch 2 – Cape Town,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Western Cape,115.3,98.0,63.58,10.0,0
+2024-01-31,Branch 2 – Cape Town,P0007,Albany Bread (Small),Food,Bread & Bakery,Western Cape,76.7,414.0,26.84,10.0,0
+2024-02-01,Branch 2 – Cape Town,P0007,Albany Bread (Small),Food,Bread & Bakery,Western Cape,80.6,414.0,26.84,10.0,0
+2024-02-02,Branch 2 – Cape Town,P0007,Albany Bread (Small),Food,Bread & Bakery,Western Cape,80.9,414.0,26.84,10.0,0
+2024-02-03,Branch 2 – Cape Town,P0007,Albany Bread (Small),Food,Bread & Bakery,Western Cape,79.1,414.0,26.84,10.0,0
+2024-02-04,Branch 2 – Cape Town,P0007,Albany Bread (Small),Food,Bread & Bakery,Western Cape,73.9,414.0,26.84,10.0,0
+2024-02-05,Branch 2 – Cape Town,P0007,Albany Bread (Small),Food,Bread & Bakery,Western Cape,73.9,414.0,26.84,10.0,0
+2024-02-06,Branch 2 – Cape Town,P0007,Albany Bread (Small),Food,Bread & Bakery,Western Cape,70.8,414.0,26.84,10.0,0
+2024-01-31,Branch 2 – Cape Town,P0008,Indomie Noodles,Food,Instant Meals,Western Cape,88.8,85.0,26.98,0.0,0
+2024-02-01,Branch 2 – Cape Town,P0008,Indomie Noodles,Food,Instant Meals,Western Cape,88.7,85.0,26.98,0.0,0
+2024-02-02,Branch 2 – Cape Town,P0008,Indomie Noodles,Food,Instant Meals,Western Cape,89.4,85.0,26.98,0.0,0
+2024-02-03,Branch 2 – Cape Town,P0008,Indomie Noodles,Food,Instant Meals,Western Cape,87.5,85.0,26.98,0.0,0
+2024-02-04,Branch 2 – Cape Town,P0008,Indomie Noodles,Food,Instant Meals,Western Cape,89.9,85.0,26.98,0.0,0
+2024-02-05,Branch 2 – Cape Town,P0008,Indomie Noodles,Food,Instant Meals,Western Cape,90.6,85.0,26.98,0.0,0
+2024-02-06,Branch 2 – Cape Town,P0008,Indomie Noodles,Food,Instant Meals,Western Cape,92.8,85.0,26.98,0.0,0
+2024-01-31,Branch 2 – Cape Town,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Western Cape,80.7,153.0,58.06,10.0,0
+2024-02-01,Branch 2 – Cape Town,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Western Cape,81.6,153.0,58.06,10.0,0
+2024-02-02,Branch 2 – Cape Town,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Western Cape,81.0,153.0,58.06,10.0,0
+2024-02-03,Branch 2 – Cape Town,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Western Cape,79.7,153.0,58.06,10.0,0
+2024-02-04,Branch 2 – Cape Town,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Western Cape,76.4,153.0,58.06,10.0,0
+2024-02-05,Branch 2 – Cape Town,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Western Cape,70.8,153.0,58.06,10.0,0
+2024-02-06,Branch 2 – Cape Town,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Western Cape,71.9,153.0,58.06,10.0,0
+2024-01-31,Branch 2 – Cape Town,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Western Cape,91.8,143.0,86.77,10.0,0
+2024-02-01,Branch 2 – Cape Town,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Western Cape,92.2,143.0,86.77,10.0,0
+2024-02-02,Branch 2 – Cape Town,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Western Cape,90.7,143.0,86.77,10.0,0
+2024-02-03,Branch 2 – Cape Town,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Western Cape,90.5,143.0,86.77,10.0,0
+2024-02-04,Branch 2 – Cape Town,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Western Cape,91.1,143.0,86.77,10.0,0
+2024-02-05,Branch 2 – Cape Town,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Western Cape,90.8,143.0,86.77,10.0,0
+2024-02-06,Branch 2 – Cape Town,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Western Cape,90.6,143.0,86.77,10.0,0
+2024-01-31,Branch 2 – Cape Town,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Western Cape,52.4,73.0,83.8,0.0,0
+2024-02-01,Branch 2 – Cape Town,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Western Cape,59.2,73.0,83.8,0.0,0
+2024-02-02,Branch 2 – Cape Town,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Western Cape,55.5,73.0,83.8,0.0,0
+2024-02-03,Branch 2 – Cape Town,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Western Cape,54.5,73.0,83.8,0.0,0
+2024-02-04,Branch 2 – Cape Town,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Western Cape,47.4,73.0,83.8,0.0,0
+2024-02-05,Branch 2 – Cape Town,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Western Cape,40.9,73.0,83.8,0.0,0
+2024-02-06,Branch 2 – Cape Town,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Western Cape,33.8,73.0,83.8,0.0,0
+2024-01-31,Branch 2 – Cape Town,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Western Cape,91.3,423.0,72.63,0.0,0
+2024-02-01,Branch 2 – Cape Town,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Western Cape,97.5,423.0,72.63,0.0,0
+2024-02-02,Branch 2 – Cape Town,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Western Cape,101.0,423.0,72.63,0.0,0
+2024-02-03,Branch 2 – Cape Town,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Western Cape,102.5,423.0,72.63,0.0,0
+2024-02-04,Branch 2 – Cape Town,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Western Cape,101.6,423.0,72.63,0.0,0
+2024-02-05,Branch 2 – Cape Town,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Western Cape,105.6,423.0,72.63,0.0,0
+2024-02-06,Branch 2 – Cape Town,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Western Cape,106.4,423.0,72.63,0.0,0
+2024-01-31,Branch 2 – Cape Town,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Western Cape,80.2,125.0,24.46,5.0,0
+2024-02-01,Branch 2 – Cape Town,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Western Cape,79.1,125.0,24.46,5.0,0
+2024-02-02,Branch 2 – Cape Town,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Western Cape,79.2,125.0,24.46,5.0,0
+2024-02-03,Branch 2 – Cape Town,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Western Cape,74.7,125.0,24.46,5.0,0
+2024-02-04,Branch 2 – Cape Town,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Western Cape,71.6,125.0,24.46,5.0,0
+2024-02-05,Branch 2 – Cape Town,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Western Cape,70.2,125.0,24.46,5.0,0
+2024-02-06,Branch 2 – Cape Town,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Western Cape,68.3,125.0,24.46,5.0,0
+2024-01-31,Branch 2 – Cape Town,P0014,Texaco Coolant (1L),Automotive,Coolant,Western Cape,81.3,676.0,127.18,5.0,0
+2024-02-01,Branch 2 – Cape Town,P0014,Texaco Coolant (1L),Automotive,Coolant,Western Cape,85.7,676.0,127.18,5.0,0
+2024-02-02,Branch 2 – Cape Town,P0014,Texaco Coolant (1L),Automotive,Coolant,Western Cape,87.6,676.0,127.18,5.0,0
+2024-02-03,Branch 2 – Cape Town,P0014,Texaco Coolant (1L),Automotive,Coolant,Western Cape,86.8,676.0,127.18,5.0,0
+2024-02-04,Branch 2 – Cape Town,P0014,Texaco Coolant (1L),Automotive,Coolant,Western Cape,88.7,676.0,127.18,5.0,0
+2024-02-05,Branch 2 – Cape Town,P0014,Texaco Coolant (1L),Automotive,Coolant,Western Cape,90.2,676.0,127.18,5.0,0
+2024-02-06,Branch 2 – Cape Town,P0014,Texaco Coolant (1L),Automotive,Coolant,Western Cape,92.4,676.0,127.18,5.0,0
+2024-01-31,Branch 2 – Cape Town,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Western Cape,93.7,1039.0,62.11,0.0,0
+2024-02-01,Branch 2 – Cape Town,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Western Cape,100.7,1039.0,62.11,0.0,0
+2024-02-02,Branch 2 – Cape Town,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Western Cape,97.3,1039.0,62.11,0.0,0
+2024-02-03,Branch 2 – Cape Town,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Western Cape,91.1,1039.0,62.11,0.0,0
+2024-02-04,Branch 2 – Cape Town,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Western Cape,86.7,1039.0,62.11,0.0,0
+2024-02-05,Branch 2 – Cape Town,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Western Cape,83.3,1039.0,62.11,0.0,0
+2024-02-06,Branch 2 – Cape Town,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Western Cape,81.4,1039.0,62.11,0.0,0
+2024-01-31,Branch 2 – Cape Town,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Western Cape,76.6,88.0,91.5,5.0,0
+2024-02-01,Branch 2 – Cape Town,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Western Cape,77.5,88.0,91.5,5.0,0
+2024-02-02,Branch 2 – Cape Town,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Western Cape,74.4,88.0,91.5,5.0,0
+2024-02-03,Branch 2 – Cape Town,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Western Cape,72.0,88.0,91.5,5.0,0
+2024-02-04,Branch 2 – Cape Town,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Western Cape,68.9,88.0,91.5,5.0,0
+2024-02-05,Branch 2 – Cape Town,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Western Cape,67.6,88.0,91.5,5.0,0
+2024-02-06,Branch 2 – Cape Town,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Western Cape,68.0,88.0,91.5,5.0,0
+2024-01-31,Branch 2 – Cape Town,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Western Cape,60.7,204.0,20.36,0.0,0
+2024-02-01,Branch 2 – Cape Town,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Western Cape,61.1,204.0,20.36,0.0,0
+2024-02-02,Branch 2 – Cape Town,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Western Cape,59.7,204.0,20.36,0.0,0
+2024-02-03,Branch 2 – Cape Town,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Western Cape,59.0,204.0,20.36,0.0,0
+2024-02-04,Branch 2 – Cape Town,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Western Cape,55.3,204.0,20.36,0.0,0
+2024-02-05,Branch 2 – Cape Town,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Western Cape,48.4,204.0,20.36,0.0,0
+2024-02-06,Branch 2 – Cape Town,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Western Cape,41.1,204.0,20.36,0.0,0
+2024-01-31,Branch 2 – Cape Town,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Western Cape,146.2,61.0,31.17,5.0,0
+2024-02-01,Branch 2 – Cape Town,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Western Cape,151.2,61.0,31.17,5.0,0
+2024-02-02,Branch 2 – Cape Town,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Western Cape,153.2,61.0,31.17,5.0,0
+2024-02-03,Branch 2 – Cape Town,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Western Cape,153.2,61.0,31.17,5.0,0
+2024-02-04,Branch 2 – Cape Town,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Western Cape,151.7,61.0,31.17,5.0,0
+2024-02-05,Branch 2 – Cape Town,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Western Cape,153.3,61.0,31.17,5.0,0
+2024-02-06,Branch 2 – Cape Town,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Western Cape,152.9,61.0,31.17,5.0,0
+2024-01-31,Branch 2 – Cape Town,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Western Cape,100.6,339.0,89.18,10.0,0
+2024-02-01,Branch 2 – Cape Town,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Western Cape,106.2,339.0,89.18,10.0,0
+2024-02-02,Branch 2 – Cape Town,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Western Cape,104.6,339.0,89.18,10.0,0
+2024-02-03,Branch 2 – Cape Town,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Western Cape,103.5,339.0,89.18,10.0,0
+2024-02-04,Branch 2 – Cape Town,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Western Cape,105.3,339.0,89.18,10.0,0
+2024-02-05,Branch 2 – Cape Town,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Western Cape,103.3,339.0,89.18,10.0,0
+2024-02-06,Branch 2 – Cape Town,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Western Cape,101.3,339.0,89.18,10.0,0
+2024-01-31,Branch 2 – Cape Town,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Western Cape,78.5,332.0,140.31,0.0,0
+2024-02-01,Branch 2 – Cape Town,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Western Cape,80.7,332.0,140.31,0.0,0
+2024-02-02,Branch 2 – Cape Town,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Western Cape,79.9,332.0,140.31,0.0,0
+2024-02-03,Branch 2 – Cape Town,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Western Cape,80.7,332.0,140.31,0.0,0
+2024-02-04,Branch 2 – Cape Town,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Western Cape,79.0,332.0,140.31,0.0,0
+2024-02-05,Branch 2 – Cape Town,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Western Cape,79.3,332.0,140.31,0.0,0
+2024-02-06,Branch 2 – Cape Town,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Western Cape,80.3,332.0,140.31,0.0,0
+2024-01-31,Branch 3 – Durban,P0001,Bottled Water (500ml),Beverages,Water,KwaZulu-Natal,57.9,207.0,13.26,10.0,0
+2024-02-01,Branch 3 – Durban,P0001,Bottled Water (500ml),Beverages,Water,KwaZulu-Natal,60.8,207.0,13.26,10.0,0
+2024-02-02,Branch 3 – Durban,P0001,Bottled Water (500ml),Beverages,Water,KwaZulu-Natal,61.0,207.0,13.26,10.0,0
+2024-02-03,Branch 3 – Durban,P0001,Bottled Water (500ml),Beverages,Water,KwaZulu-Natal,54.3,207.0,13.26,10.0,0
+2024-02-04,Branch 3 – Durban,P0001,Bottled Water (500ml),Beverages,Water,KwaZulu-Natal,48.7,207.0,13.26,10.0,0
+2024-02-05,Branch 3 – Durban,P0001,Bottled Water (500ml),Beverages,Water,KwaZulu-Natal,42.8,207.0,13.26,10.0,0
+2024-02-06,Branch 3 – Durban,P0001,Bottled Water (500ml),Beverages,Water,KwaZulu-Natal,40.1,207.0,13.26,10.0,0
+2024-01-31,Branch 3 – Durban,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,KwaZulu-Natal,88.4,327.0,55.7,10.0,0
+2024-02-01,Branch 3 – Durban,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,KwaZulu-Natal,86.3,327.0,55.7,10.0,0
+2024-02-02,Branch 3 – Durban,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,KwaZulu-Natal,85.4,327.0,55.7,10.0,0
+2024-02-03,Branch 3 – Durban,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,KwaZulu-Natal,90.1,327.0,55.7,10.0,0
+2024-02-04,Branch 3 – Durban,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,KwaZulu-Natal,85.8,327.0,55.7,10.0,0
+2024-02-05,Branch 3 – Durban,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,KwaZulu-Natal,86.2,327.0,55.7,10.0,0
+2024-02-06,Branch 3 – Durban,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,KwaZulu-Natal,81.4,327.0,55.7,10.0,0
+2024-01-31,Branch 3 – Durban,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,KwaZulu-Natal,107.3,95.0,91.96,5.0,0
+2024-02-01,Branch 3 – Durban,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,KwaZulu-Natal,112.0,95.0,91.96,5.0,0
+2024-02-02,Branch 3 – Durban,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,KwaZulu-Natal,113.3,95.0,91.96,5.0,0
+2024-02-03,Branch 3 – Durban,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,KwaZulu-Natal,117.0,95.0,91.96,5.0,0
+2024-02-04,Branch 3 – Durban,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,KwaZulu-Natal,116.0,95.0,91.96,5.0,0
+2024-02-05,Branch 3 – Durban,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,KwaZulu-Natal,116.7,95.0,91.96,5.0,0
+2024-02-06,Branch 3 – Durban,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,KwaZulu-Natal,117.5,95.0,91.96,5.0,0
+2024-01-31,Branch 3 – Durban,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,KwaZulu-Natal,96.3,552.0,20.93,5.0,0
+2024-02-01,Branch 3 – Durban,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,KwaZulu-Natal,99.1,552.0,20.93,5.0,0
+2024-02-02,Branch 3 – Durban,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,KwaZulu-Natal,94.7,552.0,20.93,5.0,0
+2024-02-03,Branch 3 – Durban,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,KwaZulu-Natal,96.9,552.0,20.93,5.0,0
+2024-02-04,Branch 3 – Durban,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,KwaZulu-Natal,93.8,552.0,20.93,5.0,0
+2024-02-05,Branch 3 – Durban,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,KwaZulu-Natal,88.2,552.0,20.93,5.0,0
+2024-02-06,Branch 3 – Durban,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,KwaZulu-Natal,86.9,552.0,20.93,5.0,0
+2024-01-31,Branch 3 – Durban,P0005,Jungle Oats Bar,Snacks,Cereal Bars,KwaZulu-Natal,102.7,782.0,25.32,5.0,0
+2024-02-01,Branch 3 – Durban,P0005,Jungle Oats Bar,Snacks,Cereal Bars,KwaZulu-Natal,100.6,782.0,25.32,5.0,0
+2024-02-02,Branch 3 – Durban,P0005,Jungle Oats Bar,Snacks,Cereal Bars,KwaZulu-Natal,98.2,782.0,25.32,5.0,0
+2024-02-03,Branch 3 – Durban,P0005,Jungle Oats Bar,Snacks,Cereal Bars,KwaZulu-Natal,97.6,782.0,25.32,5.0,0
+2024-02-04,Branch 3 – Durban,P0005,Jungle Oats Bar,Snacks,Cereal Bars,KwaZulu-Natal,98.1,782.0,25.32,5.0,0
+2024-02-05,Branch 3 – Durban,P0005,Jungle Oats Bar,Snacks,Cereal Bars,KwaZulu-Natal,102.8,782.0,25.32,5.0,0
+2024-02-06,Branch 3 – Durban,P0005,Jungle Oats Bar,Snacks,Cereal Bars,KwaZulu-Natal,108.5,782.0,25.32,5.0,0
+2024-01-31,Branch 3 – Durban,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,KwaZulu-Natal,134.3,156.0,48.42,0.0,0
+2024-02-01,Branch 3 – Durban,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,KwaZulu-Natal,135.8,156.0,48.42,0.0,0
+2024-02-02,Branch 3 – Durban,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,KwaZulu-Natal,136.2,156.0,48.42,0.0,0
+2024-02-03,Branch 3 – Durban,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,KwaZulu-Natal,137.0,156.0,48.42,0.0,0
+2024-02-04,Branch 3 – Durban,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,KwaZulu-Natal,138.3,156.0,48.42,0.0,0
+2024-02-05,Branch 3 – Durban,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,KwaZulu-Natal,140.0,156.0,48.42,0.0,0
+2024-02-06,Branch 3 – Durban,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,KwaZulu-Natal,138.3,156.0,48.42,0.0,0
+2024-01-31,Branch 3 – Durban,P0007,Albany Bread (Small),Food,Bread & Bakery,KwaZulu-Natal,92.2,187.0,17.13,0.0,0
+2024-02-01,Branch 3 – Durban,P0007,Albany Bread (Small),Food,Bread & Bakery,KwaZulu-Natal,93.3,187.0,17.13,0.0,0
+2024-02-02,Branch 3 – Durban,P0007,Albany Bread (Small),Food,Bread & Bakery,KwaZulu-Natal,91.3,187.0,17.13,0.0,0
+2024-02-03,Branch 3 – Durban,P0007,Albany Bread (Small),Food,Bread & Bakery,KwaZulu-Natal,93.2,187.0,17.13,0.0,0
+2024-02-04,Branch 3 – Durban,P0007,Albany Bread (Small),Food,Bread & Bakery,KwaZulu-Natal,89.0,187.0,17.13,0.0,0
+2024-02-05,Branch 3 – Durban,P0007,Albany Bread (Small),Food,Bread & Bakery,KwaZulu-Natal,84.5,187.0,17.13,0.0,0
+2024-02-06,Branch 3 – Durban,P0007,Albany Bread (Small),Food,Bread & Bakery,KwaZulu-Natal,87.5,187.0,17.13,0.0,0
+2024-01-31,Branch 3 – Durban,P0008,Indomie Noodles,Food,Instant Meals,KwaZulu-Natal,111.5,170.0,116.51,5.0,0
+2024-02-01,Branch 3 – Durban,P0008,Indomie Noodles,Food,Instant Meals,KwaZulu-Natal,113.6,170.0,116.51,5.0,0
+2024-02-02,Branch 3 – Durban,P0008,Indomie Noodles,Food,Instant Meals,KwaZulu-Natal,115.8,170.0,116.51,5.0,0
+2024-02-03,Branch 3 – Durban,P0008,Indomie Noodles,Food,Instant Meals,KwaZulu-Natal,112.7,170.0,116.51,5.0,0
+2024-02-04,Branch 3 – Durban,P0008,Indomie Noodles,Food,Instant Meals,KwaZulu-Natal,108.0,170.0,116.51,5.0,0
+2024-02-05,Branch 3 – Durban,P0008,Indomie Noodles,Food,Instant Meals,KwaZulu-Natal,112.8,170.0,116.51,5.0,0
+2024-02-06,Branch 3 – Durban,P0008,Indomie Noodles,Food,Instant Meals,KwaZulu-Natal,106.8,170.0,116.51,5.0,0
+2024-01-31,Branch 3 – Durban,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,KwaZulu-Natal,163.3,123.0,63.68,0.0,0
+2024-02-01,Branch 3 – Durban,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,KwaZulu-Natal,164.9,123.0,63.68,0.0,0
+2024-02-02,Branch 3 – Durban,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,KwaZulu-Natal,163.5,123.0,63.68,0.0,0
+2024-02-03,Branch 3 – Durban,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,KwaZulu-Natal,167.0,123.0,63.68,0.0,0
+2024-02-04,Branch 3 – Durban,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,KwaZulu-Natal,166.4,123.0,63.68,0.0,0
+2024-02-05,Branch 3 – Durban,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,KwaZulu-Natal,167.5,123.0,63.68,0.0,0
+2024-02-06,Branch 3 – Durban,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,KwaZulu-Natal,166.7,123.0,63.68,0.0,0
+2024-01-31,Branch 3 – Durban,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,KwaZulu-Natal,135.3,111.0,45.8,0.0,0
+2024-02-01,Branch 3 – Durban,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,KwaZulu-Natal,137.9,111.0,45.8,0.0,0
+2024-02-02,Branch 3 – Durban,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,KwaZulu-Natal,139.8,111.0,45.8,0.0,0
+2024-02-03,Branch 3 – Durban,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,KwaZulu-Natal,140.5,111.0,45.8,0.0,0
+2024-02-04,Branch 3 – Durban,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,KwaZulu-Natal,142.0,111.0,45.8,0.0,0
+2024-02-05,Branch 3 – Durban,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,KwaZulu-Natal,143.7,111.0,45.8,0.0,0
+2024-02-06,Branch 3 – Durban,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,KwaZulu-Natal,142.4,111.0,45.8,0.0,0
+2024-01-31,Branch 3 – Durban,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,KwaZulu-Natal,101.7,143.0,147.24,0.0,0
+2024-02-01,Branch 3 – Durban,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,KwaZulu-Natal,96.2,143.0,147.24,0.0,0
+2024-02-02,Branch 3 – Durban,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,KwaZulu-Natal,97.0,143.0,147.24,0.0,0
+2024-02-03,Branch 3 – Durban,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,KwaZulu-Natal,101.2,143.0,147.24,0.0,0
+2024-02-04,Branch 3 – Durban,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,KwaZulu-Natal,96.1,143.0,147.24,0.0,0
+2024-02-05,Branch 3 – Durban,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,KwaZulu-Natal,104.0,143.0,147.24,0.0,0
+2024-02-06,Branch 3 – Durban,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,KwaZulu-Natal,102.5,143.0,147.24,0.0,0
+2024-01-31,Branch 3 – Durban,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,KwaZulu-Natal,58.7,286.0,84.97,10.0,0
+2024-02-01,Branch 3 – Durban,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,KwaZulu-Natal,65.3,286.0,84.97,10.0,0
+2024-02-02,Branch 3 – Durban,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,KwaZulu-Natal,63.4,286.0,84.97,10.0,0
+2024-02-03,Branch 3 – Durban,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,KwaZulu-Natal,62.1,286.0,84.97,10.0,0
+2024-02-04,Branch 3 – Durban,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,KwaZulu-Natal,58.0,286.0,84.97,10.0,0
+2024-02-05,Branch 3 – Durban,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,KwaZulu-Natal,51.8,286.0,84.97,10.0,0
+2024-02-06,Branch 3 – Durban,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,KwaZulu-Natal,47.4,286.0,84.97,10.0,0
+2024-01-31,Branch 3 – Durban,P0013,Pringles Original (40g),Snacks,Chips & Crisps,KwaZulu-Natal,111.0,781.0,74.45,5.0,0
+2024-02-01,Branch 3 – Durban,P0013,Pringles Original (40g),Snacks,Chips & Crisps,KwaZulu-Natal,110.5,781.0,74.45,5.0,0
+2024-02-02,Branch 3 – Durban,P0013,Pringles Original (40g),Snacks,Chips & Crisps,KwaZulu-Natal,109.7,781.0,74.45,5.0,0
+2024-02-03,Branch 3 – Durban,P0013,Pringles Original (40g),Snacks,Chips & Crisps,KwaZulu-Natal,110.0,781.0,74.45,5.0,0
+2024-02-04,Branch 3 – Durban,P0013,Pringles Original (40g),Snacks,Chips & Crisps,KwaZulu-Natal,107.4,781.0,74.45,5.0,0
+2024-02-05,Branch 3 – Durban,P0013,Pringles Original (40g),Snacks,Chips & Crisps,KwaZulu-Natal,108.2,781.0,74.45,5.0,0
+2024-02-06,Branch 3 – Durban,P0013,Pringles Original (40g),Snacks,Chips & Crisps,KwaZulu-Natal,107.4,781.0,74.45,5.0,0
+2024-01-31,Branch 3 – Durban,P0014,Texaco Coolant (1L),Automotive,Coolant,KwaZulu-Natal,157.7,350.0,119.68,0.0,0
+2024-02-01,Branch 3 – Durban,P0014,Texaco Coolant (1L),Automotive,Coolant,KwaZulu-Natal,160.6,350.0,119.68,0.0,0
+2024-02-02,Branch 3 – Durban,P0014,Texaco Coolant (1L),Automotive,Coolant,KwaZulu-Natal,165.6,350.0,119.68,0.0,0
+2024-02-03,Branch 3 – Durban,P0014,Texaco Coolant (1L),Automotive,Coolant,KwaZulu-Natal,168.0,350.0,119.68,0.0,0
+2024-02-04,Branch 3 – Durban,P0014,Texaco Coolant (1L),Automotive,Coolant,KwaZulu-Natal,167.6,350.0,119.68,0.0,0
+2024-02-05,Branch 3 – Durban,P0014,Texaco Coolant (1L),Automotive,Coolant,KwaZulu-Natal,167.6,350.0,119.68,0.0,0
+2024-02-06,Branch 3 – Durban,P0014,Texaco Coolant (1L),Automotive,Coolant,KwaZulu-Natal,162.0,350.0,119.68,0.0,0
+2024-01-31,Branch 3 – Durban,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,KwaZulu-Natal,128.1,413.0,104.09,10.0,0
+2024-02-01,Branch 3 – Durban,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,KwaZulu-Natal,131.5,413.0,104.09,10.0,0
+2024-02-02,Branch 3 – Durban,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,KwaZulu-Natal,133.5,413.0,104.09,10.0,0
+2024-02-03,Branch 3 – Durban,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,KwaZulu-Natal,133.8,413.0,104.09,10.0,0
+2024-02-04,Branch 3 – Durban,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,KwaZulu-Natal,134.4,413.0,104.09,10.0,0
+2024-02-05,Branch 3 – Durban,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,KwaZulu-Natal,137.5,413.0,104.09,10.0,0
+2024-02-06,Branch 3 – Durban,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,KwaZulu-Natal,129.5,413.0,104.09,10.0,0
+2024-01-31,Branch 3 – Durban,P0016,Simba Chips (125g),Snacks,Chips & Crisps,KwaZulu-Natal,99.4,161.0,104.37,5.0,0
+2024-02-01,Branch 3 – Durban,P0016,Simba Chips (125g),Snacks,Chips & Crisps,KwaZulu-Natal,100.8,161.0,104.37,5.0,0
+2024-02-02,Branch 3 – Durban,P0016,Simba Chips (125g),Snacks,Chips & Crisps,KwaZulu-Natal,99.2,161.0,104.37,5.0,0
+2024-02-03,Branch 3 – Durban,P0016,Simba Chips (125g),Snacks,Chips & Crisps,KwaZulu-Natal,96.8,161.0,104.37,5.0,0
+2024-02-04,Branch 3 – Durban,P0016,Simba Chips (125g),Snacks,Chips & Crisps,KwaZulu-Natal,98.3,161.0,104.37,5.0,0
+2024-02-05,Branch 3 – Durban,P0016,Simba Chips (125g),Snacks,Chips & Crisps,KwaZulu-Natal,99.1,161.0,104.37,5.0,0
+2024-02-06,Branch 3 – Durban,P0016,Simba Chips (125g),Snacks,Chips & Crisps,KwaZulu-Natal,96.0,161.0,104.37,5.0,0
+2024-01-31,Branch 3 – Durban,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,KwaZulu-Natal,108.8,239.0,140.72,5.0,0
+2024-02-01,Branch 3 – Durban,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,KwaZulu-Natal,111.3,239.0,140.72,5.0,0
+2024-02-02,Branch 3 – Durban,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,KwaZulu-Natal,115.2,239.0,140.72,5.0,0
+2024-02-03,Branch 3 – Durban,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,KwaZulu-Natal,115.6,239.0,140.72,5.0,0
+2024-02-04,Branch 3 – Durban,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,KwaZulu-Natal,115.4,239.0,140.72,5.0,0
+2024-02-05,Branch 3 – Durban,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,KwaZulu-Natal,117.8,239.0,140.72,5.0,0
+2024-02-06,Branch 3 – Durban,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,KwaZulu-Natal,122.0,239.0,140.72,5.0,0
+2024-01-31,Branch 3 – Durban,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,KwaZulu-Natal,89.2,652.0,142.21,0.0,0
+2024-02-01,Branch 3 – Durban,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,KwaZulu-Natal,88.3,652.0,142.21,0.0,0
+2024-02-02,Branch 3 – Durban,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,KwaZulu-Natal,88.6,652.0,142.21,0.0,0
+2024-02-03,Branch 3 – Durban,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,KwaZulu-Natal,90.8,652.0,142.21,0.0,0
+2024-02-04,Branch 3 – Durban,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,KwaZulu-Natal,89.7,652.0,142.21,0.0,0
+2024-02-05,Branch 3 – Durban,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,KwaZulu-Natal,91.0,652.0,142.21,0.0,0
+2024-02-06,Branch 3 – Durban,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,KwaZulu-Natal,91.1,652.0,142.21,0.0,0
+2024-01-31,Branch 3 – Durban,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,KwaZulu-Natal,134.2,108.0,61.45,5.0,0
+2024-02-01,Branch 3 – Durban,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,KwaZulu-Natal,137.3,108.0,61.45,5.0,0
+2024-02-02,Branch 3 – Durban,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,KwaZulu-Natal,137.6,108.0,61.45,5.0,0
+2024-02-03,Branch 3 – Durban,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,KwaZulu-Natal,138.4,108.0,61.45,5.0,0
+2024-02-04,Branch 3 – Durban,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,KwaZulu-Natal,137.3,108.0,61.45,5.0,0
+2024-02-05,Branch 3 – Durban,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,KwaZulu-Natal,140.5,108.0,61.45,5.0,0
+2024-02-06,Branch 3 – Durban,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,KwaZulu-Natal,139.0,108.0,61.45,5.0,0
+2024-01-31,Branch 3 – Durban,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,KwaZulu-Natal,87.6,113.0,70.6,10.0,0
+2024-02-01,Branch 3 – Durban,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,KwaZulu-Natal,88.7,113.0,70.6,10.0,0
+2024-02-02,Branch 3 – Durban,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,KwaZulu-Natal,90.9,113.0,70.6,10.0,0
+2024-02-03,Branch 3 – Durban,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,KwaZulu-Natal,89.6,113.0,70.6,10.0,0
+2024-02-04,Branch 3 – Durban,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,KwaZulu-Natal,86.8,113.0,70.6,10.0,0
+2024-02-05,Branch 3 – Durban,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,KwaZulu-Natal,84.2,113.0,70.6,10.0,0
+2024-02-06,Branch 3 – Durban,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,KwaZulu-Natal,83.0,113.0,70.6,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0001,Bottled Water (500ml),Beverages,Water,Gauteng West,98.1,342.0,11.43,5.0,0
+2024-02-01,Branch 4 – Johannesburg,P0001,Bottled Water (500ml),Beverages,Water,Gauteng West,101.8,342.0,11.43,5.0,0
+2024-02-02,Branch 4 – Johannesburg,P0001,Bottled Water (500ml),Beverages,Water,Gauteng West,104.5,342.0,11.43,5.0,0
+2024-02-03,Branch 4 – Johannesburg,P0001,Bottled Water (500ml),Beverages,Water,Gauteng West,105.1,342.0,11.43,5.0,0
+2024-02-04,Branch 4 – Johannesburg,P0001,Bottled Water (500ml),Beverages,Water,Gauteng West,100.7,342.0,11.43,5.0,0
+2024-02-05,Branch 4 – Johannesburg,P0001,Bottled Water (500ml),Beverages,Water,Gauteng West,98.0,342.0,11.43,5.0,0
+2024-02-06,Branch 4 – Johannesburg,P0001,Bottled Water (500ml),Beverages,Water,Gauteng West,99.2,342.0,11.43,5.0,0
+2024-01-31,Branch 4 – Johannesburg,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng West,64.4,273.0,17.57,0.0,0
+2024-02-01,Branch 4 – Johannesburg,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng West,67.5,273.0,17.57,0.0,0
+2024-02-02,Branch 4 – Johannesburg,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng West,64.1,273.0,17.57,0.0,0
+2024-02-03,Branch 4 – Johannesburg,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng West,61.9,273.0,17.57,0.0,0
+2024-02-04,Branch 4 – Johannesburg,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng West,56.9,273.0,17.57,0.0,0
+2024-02-05,Branch 4 – Johannesburg,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng West,52.7,273.0,17.57,0.0,0
+2024-02-06,Branch 4 – Johannesburg,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng West,42.7,273.0,17.57,0.0,0
+2024-01-31,Branch 4 – Johannesburg,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng West,52.1,153.0,131.83,5.0,0
+2024-02-01,Branch 4 – Johannesburg,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng West,58.2,153.0,131.83,5.0,0
+2024-02-02,Branch 4 – Johannesburg,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng West,59.8,153.0,131.83,5.0,0
+2024-02-03,Branch 4 – Johannesburg,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng West,59.7,153.0,131.83,5.0,0
+2024-02-04,Branch 4 – Johannesburg,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng West,58.9,153.0,131.83,5.0,0
+2024-02-05,Branch 4 – Johannesburg,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng West,54.6,153.0,131.83,5.0,0
+2024-02-06,Branch 4 – Johannesburg,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng West,48.9,153.0,131.83,5.0,0
+2024-01-31,Branch 4 – Johannesburg,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng West,145.4,439.0,62.88,0.0,0
+2024-02-01,Branch 4 – Johannesburg,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng West,150.2,439.0,62.88,0.0,0
+2024-02-02,Branch 4 – Johannesburg,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng West,148.3,439.0,62.88,0.0,0
+2024-02-03,Branch 4 – Johannesburg,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng West,148.1,439.0,62.88,0.0,0
+2024-02-04,Branch 4 – Johannesburg,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng West,147.9,439.0,62.88,0.0,0
+2024-02-05,Branch 4 – Johannesburg,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng West,149.8,439.0,62.88,0.0,0
+2024-02-06,Branch 4 – Johannesburg,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng West,152.5,439.0,62.88,0.0,0
+2024-01-31,Branch 4 – Johannesburg,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng West,84.7,184.0,77.49,0.0,0
+2024-02-01,Branch 4 – Johannesburg,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng West,86.7,184.0,77.49,0.0,0
+2024-02-02,Branch 4 – Johannesburg,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng West,83.0,184.0,77.49,0.0,0
+2024-02-03,Branch 4 – Johannesburg,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng West,77.9,184.0,77.49,0.0,0
+2024-02-04,Branch 4 – Johannesburg,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng West,70.8,184.0,77.49,0.0,0
+2024-02-05,Branch 4 – Johannesburg,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng West,69.7,184.0,77.49,0.0,0
+2024-02-06,Branch 4 – Johannesburg,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng West,69.4,184.0,77.49,0.0,0
+2024-01-31,Branch 4 – Johannesburg,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng West,76.5,134.0,36.62,5.0,0
+2024-02-01,Branch 4 – Johannesburg,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng West,75.8,134.0,36.62,5.0,0
+2024-02-02,Branch 4 – Johannesburg,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng West,72.3,134.0,36.62,5.0,0
+2024-02-03,Branch 4 – Johannesburg,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng West,72.4,134.0,36.62,5.0,0
+2024-02-04,Branch 4 – Johannesburg,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng West,68.8,134.0,36.62,5.0,0
+2024-02-05,Branch 4 – Johannesburg,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng West,64.3,134.0,36.62,5.0,0
+2024-02-06,Branch 4 – Johannesburg,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng West,59.3,134.0,36.62,5.0,0
+2024-01-31,Branch 4 – Johannesburg,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng West,124.2,574.0,32.25,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng West,125.5,574.0,32.25,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng West,131.2,574.0,32.25,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng West,127.2,574.0,32.25,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng West,124.6,574.0,32.25,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng West,129.4,574.0,32.25,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng West,123.3,574.0,32.25,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0008,Indomie Noodles,Food,Instant Meals,Gauteng West,49.0,92.0,86.87,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0008,Indomie Noodles,Food,Instant Meals,Gauteng West,51.9,92.0,86.87,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0008,Indomie Noodles,Food,Instant Meals,Gauteng West,52.2,92.0,86.87,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0008,Indomie Noodles,Food,Instant Meals,Gauteng West,50.4,92.0,86.87,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0008,Indomie Noodles,Food,Instant Meals,Gauteng West,48.3,92.0,86.87,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0008,Indomie Noodles,Food,Instant Meals,Gauteng West,51.2,92.0,86.87,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0008,Indomie Noodles,Food,Instant Meals,Gauteng West,50.8,92.0,86.87,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng West,107.6,472.0,120.79,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng West,115.6,472.0,120.79,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng West,110.2,472.0,120.79,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng West,110.7,472.0,120.79,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng West,106.8,472.0,120.79,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng West,109.6,472.0,120.79,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng West,108.1,472.0,120.79,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng West,91.1,247.0,27.62,5.0,0
+2024-02-01,Branch 4 – Johannesburg,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng West,90.0,247.0,27.62,5.0,0
+2024-02-02,Branch 4 – Johannesburg,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng West,92.9,247.0,27.62,5.0,0
+2024-02-03,Branch 4 – Johannesburg,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng West,92.4,247.0,27.62,5.0,0
+2024-02-04,Branch 4 – Johannesburg,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng West,90.3,247.0,27.62,5.0,0
+2024-02-05,Branch 4 – Johannesburg,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng West,85.1,247.0,27.62,5.0,0
+2024-02-06,Branch 4 – Johannesburg,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng West,84.2,247.0,27.62,5.0,0
+2024-01-31,Branch 4 – Johannesburg,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng West,71.2,596.0,53.84,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng West,74.0,596.0,53.84,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng West,75.0,596.0,53.84,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng West,73.5,596.0,53.84,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng West,74.5,596.0,53.84,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng West,72.3,596.0,53.84,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng West,71.7,596.0,53.84,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng West,82.6,201.0,119.62,0.0,0
+2024-02-01,Branch 4 – Johannesburg,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng West,85.7,201.0,119.62,0.0,0
+2024-02-02,Branch 4 – Johannesburg,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng West,85.8,201.0,119.62,0.0,0
+2024-02-03,Branch 4 – Johannesburg,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng West,84.7,201.0,119.62,0.0,0
+2024-02-04,Branch 4 – Johannesburg,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng West,81.1,201.0,119.62,0.0,0
+2024-02-05,Branch 4 – Johannesburg,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng West,76.7,201.0,119.62,0.0,0
+2024-02-06,Branch 4 – Johannesburg,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng West,72.5,201.0,119.62,0.0,0
+2024-01-31,Branch 4 – Johannesburg,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng West,58.0,389.0,16.21,0.0,0
+2024-02-01,Branch 4 – Johannesburg,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng West,61.4,389.0,16.21,0.0,0
+2024-02-02,Branch 4 – Johannesburg,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng West,57.8,389.0,16.21,0.0,0
+2024-02-03,Branch 4 – Johannesburg,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng West,52.6,389.0,16.21,0.0,0
+2024-02-04,Branch 4 – Johannesburg,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng West,46.3,389.0,16.21,0.0,0
+2024-02-05,Branch 4 – Johannesburg,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng West,35.7,389.0,16.21,0.0,0
+2024-02-06,Branch 4 – Johannesburg,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng West,22.5,389.0,16.21,0.0,0
+2024-01-31,Branch 4 – Johannesburg,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng West,40.5,379.0,138.93,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng West,45.7,379.0,138.93,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng West,45.0,379.0,138.93,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng West,43.7,379.0,138.93,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng West,35.9,379.0,138.93,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng West,29.0,379.0,138.93,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng West,28.6,379.0,138.93,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng West,46.0,292.0,80.54,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng West,51.8,292.0,80.54,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng West,52.3,292.0,80.54,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng West,46.2,292.0,80.54,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng West,38.3,292.0,80.54,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng West,27.6,292.0,80.54,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng West,28.1,292.0,80.54,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng West,45.6,153.0,110.44,0.0,0
+2024-02-01,Branch 4 – Johannesburg,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng West,50.2,153.0,110.44,0.0,0
+2024-02-02,Branch 4 – Johannesburg,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng West,46.4,153.0,110.44,0.0,0
+2024-02-03,Branch 4 – Johannesburg,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng West,42.5,153.0,110.44,0.0,0
+2024-02-04,Branch 4 – Johannesburg,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng West,38.2,153.0,110.44,0.0,0
+2024-02-05,Branch 4 – Johannesburg,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng West,29.1,153.0,110.44,0.0,0
+2024-02-06,Branch 4 – Johannesburg,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng West,28.7,153.0,110.44,0.0,0
+2024-01-31,Branch 4 – Johannesburg,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng West,121.7,166.0,105.91,0.0,0
+2024-02-01,Branch 4 – Johannesburg,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng West,126.0,166.0,105.91,0.0,0
+2024-02-02,Branch 4 – Johannesburg,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng West,127.4,166.0,105.91,0.0,0
+2024-02-03,Branch 4 – Johannesburg,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng West,129.1,166.0,105.91,0.0,0
+2024-02-04,Branch 4 – Johannesburg,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng West,127.4,166.0,105.91,0.0,0
+2024-02-05,Branch 4 – Johannesburg,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng West,128.8,166.0,105.91,0.0,0
+2024-02-06,Branch 4 – Johannesburg,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng West,129.0,166.0,105.91,0.0,0
+2024-01-31,Branch 4 – Johannesburg,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng West,60.1,97.0,156.83,5.0,0
+2024-02-01,Branch 4 – Johannesburg,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng West,63.2,97.0,156.83,5.0,0
+2024-02-02,Branch 4 – Johannesburg,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng West,65.0,97.0,156.83,5.0,0
+2024-02-03,Branch 4 – Johannesburg,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng West,64.9,97.0,156.83,5.0,0
+2024-02-04,Branch 4 – Johannesburg,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng West,64.9,97.0,156.83,5.0,0
+2024-02-05,Branch 4 – Johannesburg,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng West,64.4,97.0,156.83,5.0,0
+2024-02-06,Branch 4 – Johannesburg,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng West,65.6,97.0,156.83,5.0,0
+2024-01-31,Branch 4 – Johannesburg,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng West,87.0,219.0,62.67,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng West,90.0,219.0,62.67,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng West,81.6,219.0,62.67,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng West,71.4,219.0,62.67,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng West,71.2,219.0,62.67,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng West,72.5,219.0,62.67,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng West,65.6,219.0,62.67,10.0,0
+2024-01-31,Branch 4 – Johannesburg,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng West,97.7,79.0,132.53,10.0,0
+2024-02-01,Branch 4 – Johannesburg,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng West,102.8,79.0,132.53,10.0,0
+2024-02-02,Branch 4 – Johannesburg,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng West,106.7,79.0,132.53,10.0,0
+2024-02-03,Branch 4 – Johannesburg,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng West,106.7,79.0,132.53,10.0,0
+2024-02-04,Branch 4 – Johannesburg,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng West,107.7,79.0,132.53,10.0,0
+2024-02-05,Branch 4 – Johannesburg,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng West,110.6,79.0,132.53,10.0,0
+2024-02-06,Branch 4 – Johannesburg,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng West,114.5,79.0,132.53,10.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,95.3,267.0,12.04,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,93.8,267.0,12.04,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,93.5,267.0,12.04,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,90.5,267.0,12.04,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,91.6,267.0,12.04,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,87.4,267.0,12.04,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0001,Bottled Water (500ml),Beverages,Water,Gauteng North,85.4,267.0,12.04,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,135.6,156.0,49.68,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,143.1,156.0,49.68,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,150.8,156.0,49.68,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,155.8,156.0,49.68,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,159.9,156.0,49.68,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,160.6,156.0,49.68,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0002,Coca-Cola (500ml),Beverages,Soft Drinks,Gauteng North,160.8,156.0,49.68,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,73.0,212.0,32.93,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,64.9,212.0,32.93,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,66.4,212.0,32.93,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,65.0,212.0,32.93,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,60.6,212.0,32.93,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,60.0,212.0,32.93,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0003,Lay's Chips (120g),Snacks,Chips & Crisps,Gauteng North,56.4,212.0,32.93,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,112.1,141.0,7.73,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,117.7,141.0,7.73,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,120.2,141.0,7.73,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,120.9,141.0,7.73,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,120.3,141.0,7.73,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,121.9,141.0,7.73,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,Gauteng North,120.9,141.0,7.73,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,121.5,288.0,17.12,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,128.0,288.0,17.12,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,128.5,288.0,17.12,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,124.9,288.0,17.12,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,126.1,288.0,17.12,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,129.4,288.0,17.12,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0005,Jungle Oats Bar,Snacks,Cereal Bars,Gauteng North,127.1,288.0,17.12,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,109.6,266.0,72.4,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,106.5,266.0,72.4,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,98.5,266.0,72.4,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,107.9,266.0,72.4,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,105.6,266.0,72.4,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,97.6,266.0,72.4,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,Gauteng North,107.2,266.0,72.4,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,59.8,261.0,74.58,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,65.6,261.0,74.58,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,62.6,261.0,74.58,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,63.6,261.0,74.58,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,61.3,261.0,74.58,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,57.4,261.0,74.58,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0007,Albany Bread (Small),Food,Bread & Bakery,Gauteng North,53.6,261.0,74.58,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,69.0,154.0,59.36,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,72.0,154.0,59.36,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,69.1,154.0,59.36,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,66.6,154.0,59.36,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,62.2,154.0,59.36,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,57.0,154.0,59.36,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0008,Indomie Noodles,Food,Instant Meals,Gauteng North,52.3,154.0,59.36,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,80.0,136.0,99.52,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,78.9,136.0,99.52,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,73.3,136.0,99.52,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,71.8,136.0,99.52,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,71.1,136.0,99.52,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,66.3,136.0,99.52,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,Gauteng North,65.2,136.0,99.52,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,52.3,115.0,52.94,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,54.9,115.0,52.94,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,57.2,115.0,52.94,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,57.3,115.0,52.94,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,56.1,115.0,52.94,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,53.9,115.0,52.94,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,Gauteng North,45.2,115.0,52.94,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,63.7,269.0,74.76,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,68.7,269.0,74.76,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,65.5,269.0,74.76,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,65.9,269.0,74.76,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,63.0,269.0,74.76,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,65.3,269.0,74.76,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,Gauteng North,65.9,269.0,74.76,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,39.5,375.0,107.91,10.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,44.8,375.0,107.91,10.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,48.2,375.0,107.91,10.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,48.8,375.0,107.91,10.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,45.9,375.0,107.91,10.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,39.6,375.0,107.91,10.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,Gauteng North,35.1,375.0,107.91,10.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,97.9,792.0,78.12,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,103.0,792.0,78.12,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,99.1,792.0,78.12,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,100.7,792.0,78.12,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,100.9,792.0,78.12,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,98.7,792.0,78.12,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0013,Pringles Original (40g),Snacks,Chips & Crisps,Gauteng North,95.6,792.0,78.12,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,96.8,161.0,182.88,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,96.7,161.0,182.88,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,95.6,161.0,182.88,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,94.9,161.0,182.88,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,94.1,161.0,182.88,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,94.1,161.0,182.88,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0014,Texaco Coolant (1L),Automotive,Coolant,Gauteng North,93.6,161.0,182.88,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,80.0,520.0,48.62,10.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,87.7,520.0,48.62,10.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,86.0,520.0,48.62,10.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,84.0,520.0,48.62,10.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,81.8,520.0,48.62,10.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,75.2,520.0,48.62,10.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,Gauteng North,72.4,520.0,48.62,10.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,46.6,233.0,29.8,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,50.8,233.0,29.8,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,46.5,233.0,29.8,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,42.1,233.0,29.8,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,41.7,233.0,29.8,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,39.2,233.0,29.8,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0016,Simba Chips (125g),Snacks,Chips & Crisps,Gauteng North,28.4,233.0,29.8,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,123.9,137.0,42.92,5.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,129.1,137.0,42.92,5.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,131.0,137.0,42.92,5.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,131.8,137.0,42.92,5.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,133.5,137.0,42.92,5.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,135.4,137.0,42.92,5.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0017,Fanta Orange (500ml),Beverages,Soft Drinks,Gauteng North,134.6,137.0,42.92,5.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,59.4,197.0,17.81,10.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,65.7,197.0,17.81,10.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,61.7,197.0,17.81,10.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,58.9,197.0,17.81,10.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,52.9,197.0,17.81,10.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,45.2,197.0,17.81,10.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,Gauteng North,31.4,197.0,17.81,10.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,77.3,125.0,151.72,0.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,77.6,125.0,151.72,0.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,78.5,125.0,151.72,0.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,77.9,125.0,151.72,0.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,78.5,125.0,151.72,0.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,78.7,125.0,151.72,0.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,Gauteng North,78.5,125.0,151.72,0.0,0
+2024-01-31,Branch 5 – Port Elizabeth,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,49.5,126.0,25.78,10.0,0
+2024-02-01,Branch 5 – Port Elizabeth,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,48.8,126.0,25.78,10.0,0
+2024-02-02,Branch 5 – Port Elizabeth,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,47.7,126.0,25.78,10.0,0
+2024-02-03,Branch 5 – Port Elizabeth,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,49.7,126.0,25.78,10.0,0
+2024-02-04,Branch 5 – Port Elizabeth,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,47.3,126.0,25.78,10.0,0
+2024-02-05,Branch 5 – Port Elizabeth,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,42.7,126.0,25.78,10.0,0
+2024-02-06,Branch 5 – Port Elizabeth,P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,Gauteng North,43.2,126.0,25.78,10.0,0
