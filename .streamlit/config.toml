@@ -1,0 +1,5 @@
+[global]
+suppressDeprecationWarnings = true
+
+[server]
+headless = false

@@ -1,0 +1,21 @@
+Product ID,Product Name,Filling Station Category,Subcategory,Unit Price Range,Allowed
+P0001,Bottled Water (500ml),Beverages,Water,8-15,True
+P0002,Coca-Cola (500ml),Beverages,Soft Drinks,14-18,True
+P0003,Lay's Chips (120g),Snacks,Chips & Crisps,22-28,True
+P0004,Red Bull Energy Drink (250ml),Beverages,Energy Drinks,28-35,True
+P0005,Jungle Oats Bar,Snacks,Cereal Bars,12-18,True
+P0006,Stimorol Chewing Gum,Snacks,Sweets & Candy,8-12,True
+P0007,Albany Bread (Small),Food,Bread & Bakery,18-25,True
+P0008,Indomie Noodles,Food,Instant Meals,12-18,True
+P0009,Milk (1L Long Life),Dairy & Refrigerated,Milk,22-30,True
+P0010,Shell Helix Engine Oil (1L),Automotive,Engine Oil,120-180,True
+P0011,Yogurt (175g),Dairy & Refrigerated,Yogurt,18-25,True
+P0012,Energizer AA Batteries (4-pack),Household & Convenience,Batteries,55-75,True
+P0013,Pringles Original (40g),Snacks,Chips & Crisps,25-35,True
+P0014,Texaco Coolant (1L),Automotive,Coolant,85-120,True
+P0015,Handy Andy Wipes (30s),Personal Care,Wet Wipes,28-40,True
+P0016,Simba Chips (125g),Snacks,Chips & Crisps,22-30,True
+P0017,Fanta Orange (500ml),Beverages,Soft Drinks,14-18,True
+P0018,Cadbury Dairy Milk (80g),Snacks,Chocolate,22-30,True
+P0019,Dettol Hand Sanitiser (50ml),Personal Care,Hand Sanitiser,35-55,True
+P0020,Lucozade Sport (500ml),Beverages,Sports Drinks,22-28,True
