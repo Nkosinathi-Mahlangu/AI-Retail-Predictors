@@ -1,4 +1,4 @@
-# SmartFuel AI
+# AI-Retail-Predictor
 ## Intelligent Filling Station Sales, Demand Forecasting and Inventory Management System
 
 **Academic prototype · South African filling-station convenience store**
