@@ -7,14 +7,14 @@
 
 ## Project Overview
 
-SmartFuel AI is an end-to-end AI/ML system that helps a filling-station convenience-store
+AI-Retail-Predictor is an end-to-end AI/ML system that helps a filling-station convenience-store
 manager understand historical sales, predict future product demand, identify stockout risks,
 receive automated reorder recommendations, and interact with store data through a
 natural-language AI assistant.
 
 ### Problem Statement
 Filling-station convenience stores face unpredictable product demand, frequent stockouts,
-and manual reorder processes. SmartFuel AI automates demand forecasting and inventory
+and manual reorder processes. AI-Retail-Predictor automates demand forecasting and inventory
 intelligence using machine learning, reducing the risk of lost sales from stockouts and
 over-ordering of slow-moving products.
 
